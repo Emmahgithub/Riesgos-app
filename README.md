@@ -27,6 +27,7 @@ core/                  # cálculo puro, sin interfaz (reutilizable por una API o
   backtesting.py       # Kupiec, Christoffersen, cobertura condicional
 tests/                 # pruebas contra fórmulas cerradas y simulaciones
 streamlit_app.py       # interfaz
+glosario.py            # textos de los botones «?» (explicación breve de cada concepto)
 ```
 
 ## Convenciones
